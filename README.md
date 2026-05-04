@@ -1,1 +1,2 @@
-# Basic-halfadder-
+# Basic-half adder
+Author-Vraj Patel
